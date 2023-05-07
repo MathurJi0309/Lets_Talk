@@ -1,0 +1,11 @@
+{
+  "name": "lets_talk",
+  "version": "1.0.0",
+  "description": "Making a chat engine app by the help of the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anilesh Mathur",
+  "license": "ISC"
+}
